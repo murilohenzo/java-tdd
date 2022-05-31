@@ -1,6 +1,4 @@
 
-V
-&src/br/com/murilo/domain/Customer.java,c\7\c7ab85aa611235e7b96c6dee028a03beed7d270c
 k
 ;src/br/com/murilo/exceptions/CustomerNotFoundException.java,7\f\7fca153dad577368d7e7495e0d490fd646c808f8
 e
